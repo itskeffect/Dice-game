@@ -70,7 +70,6 @@ function win(){
         w[1].style.display="block";
     }
     else{
-        w[0].style.display="block";
-        w[1].style.display="block";
+        alert("Its A Draw !!!");
     }
 }
